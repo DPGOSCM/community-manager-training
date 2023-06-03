@@ -24,7 +24,7 @@ Participants have been selected by the DPGs and GitHub
 👉 Trainer will send a post session email within 4 hours of the group session.  The email will contain
 - Customized Attendance & Content Survey link and reminder
 - Pre-read for next session
-- [Dashboard link](index.html}
+- [Dashboard link](index.md)
 
 👉 Attend weekly 1-on-1s (if you are a DPG Community Manager, optional if you are not).
 
