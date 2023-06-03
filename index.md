@@ -1,4 +1,4 @@
-Digital Public Goods Community Manager Training Program 
+Digital Public Goods Open Source Community Manager Program
 # Dashboard
 
 ## Main Program links
