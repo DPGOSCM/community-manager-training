@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DPGCM: Group Session Calendar</title>
+    
+
+  
+  
+
+</head>
+<body>
+<div style="font-family:alliance,mono,sans-serif;">
+<p>DPG Open Source Community Manager Program</p>
+<h1>Group Session Calendar</h1>
+    
+    <p><strong>The events below should show up in your computer's timezone</strong></p>
+    <p>To test this, you can go to this <a href="https://savvytime.com/converter/pst/jun-5-2023/7am" target="_blank">URL</a> which is set to June 5th, 7AM PST and put in your time zone.  After you have added your timezone, the time calculation on that URL should match what you see on the calendar below.  If the time matches then the displayed calendar is working properly</p> 
+<!--
+From: https://stackoverflow.com/questions/31821974/support-user-time-zone-in-embedded-google-calendar
+The solution is the version with ES2015 and without the unneeded JSTZ dependency
+ -->
+        
+<div id="calendar-container">
+</div>
+
+
+<script type="text/javascript">
+const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone 
+const html = `<iframe src="https://calendar.google.com/calendar/embed?src=dpgoscommunitymanager%40gmail.com&ctz=${timezone}" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>`
+document.getElementById('calendar-container').innerHTML = html;
+</script>
+    
+    </div>
+</body>
+</html>
