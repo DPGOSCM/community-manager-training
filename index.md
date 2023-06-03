@@ -3,7 +3,7 @@ Digital Public Goods Community Manager Training Program
 
 ## Main Program links
 
-- [Program Overview](overview.html)
+- [Program Overview](overview.md)
 - [GitHub Code of Conduct](https://docs.github.com/site-policy/github-terms/github-community-code-of-conduct)
 - Slack 
   - [dpgcm.slack.com](https://dpgcm.slack.com/)
