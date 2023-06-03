@@ -33,4 +33,4 @@ Participants have been selected by the DPGs and GitHub
 ❓ If you have questions, please fill out our [questions form](https://docs.google.com/forms/d/e/1FAIpQLSdxl6nUoPpc9qsvQH91VKXx4JCLN0os7D8nkMiNGOBpkRaGkg/viewform).  We will get back to you as soon as possible.  If the question is relevant to other cohort participants, we will anonymize and add the Q&A to the dashboard or program overview page as well.
 
 ---
-Original GitHub blog post: https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program
+Original GitHub blog post: [https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program](https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program)
