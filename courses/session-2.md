@@ -13,23 +13,23 @@ We will be looking at:
 
 
 #### Chayn
-[Website](https://www.chayn.co/)
-[GitHub](https://github.com/chaynhq)
+- [Website](https://www.chayn.co/)
+- [GitHub](https://github.com/chaynhq)
 #### if-me.org
-[Website](https://www.if-me.org/)
-[GitHub](https://github.com/ifmeorg/ifme)
+- [Website](https://www.if-me.org/)
+- [GitHub](https://github.com/ifmeorg/ifme)
 #### Open Terms Archive
-[Website](http://opentermsarchive.org/)
-[GitHub](https://github.com/OpenTermsArchive)
+- [Website](http://opentermsarchive.org/)
+- [GitHub](https://github.com/OpenTermsArchive)
 #### OpenFisca
-[Website](https://openfisca.org/en/)
-[GitHub](https://github.com/openfisca/)
+- [Website](https://openfisca.org/en/)
+- [GitHub](https://github.com/openfisca/)
 #### Social Income
-[Website](https://socialincome.org/)
-[GitHub](https://github.com/socialincome-san/public)
+- [Website](https://socialincome.org/)
+- [GitHub](https://github.com/socialincome-san/public)
 #### Uli
-[Website](https://uli.tattle.co.in/)
-[GitHub](https://github.com/tattle-made/OGBV)
+- [Website](https://uli.tattle.co.in/)
+- [GitHub](https://github.com/tattle-made/OGBV)
 #### Uwazi
-[Website](https://uwazi.io/)
-[GitHub](https://github.com/huridocs/uwazi)
+- [Website](https://uwazi.io/)
+- [GitHub](https://github.com/huridocs/uwazi)
