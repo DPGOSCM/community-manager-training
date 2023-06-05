@@ -15,6 +15,7 @@ If you have questions, submit them using our [DPGCM question form](https://docs.
 ## 📙 Curriculum & Pre-reads
 Final touches are being added, it will be linked here when available
 - Session 1: no pre-read
+- [Session 2: Overview & Pre-read](/courses/session-2.md)
 
 ## ☎️ Community Contacts
 ### Bonnie Wolfe
