@@ -31,7 +31,7 @@ Final touches are being added, it will be linked here when available
 ## Miscellaneous Useful Links
 View the list of links provided by the trainer, cohort members and DPGs as the program progresses
 - [Submit a useful link](https://docs.google.com/forms/d/e/1FAIpQLSfIyTGuLCBRMDYDaSjukE2y0oIKNvbmiggG6Hv5hjOKYkuLig/viewform)
-- View the links
+- [View the links](https://docs.google.com/spreadsheets/d/1Indg9E9i0jVvnW4Q7QvHxbKyMG8F9fPnm0uwSB-zxnQ/preview)
 
 ## Calendars/Dates and Recording Links
 - [Google Calendar](https://bonniewolfe.github.io/dpgcm-resources/calendar) - should load in your time zone
