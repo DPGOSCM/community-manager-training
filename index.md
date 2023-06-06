@@ -9,7 +9,7 @@ Digital Public Goods Open Source Community Manager Program
   - [dpgcm.slack.com](https://dpgcm.slack.com/)
   - [Invite](https://join.slack.com/t/dpgopensource-gfn1307/shared_invite/zt-1wiykjh7k-dKu5k1RpXI_S7HGsSe_AJQ)
 
-## ❔ Questions
+## ❔ Questions (see [FAQ](faq))
 If you have questions, submit them using our [DPGCM question form](https://docs.google.com/forms/d/e/1FAIpQLSdxl6nUoPpc9qsvQH91VKXx4JCLN0os7D8nkMiNGOBpkRaGkg/viewform). If the question is relevant to other cohort members we will add it here or to the program overview page.
 
 ## 📙 Curriculum & Pre-reads
