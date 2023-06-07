@@ -8,6 +8,7 @@ This session will have a review of different kinds of branding and customization
 We will be looking at the following features and creating some custom pages together.
 
 #### GitHub Repository Topics
+- GitHub: [Searching topics](https://docs.github.com/en/search-github/searching-on-github/searching-topics)
 - Custom
 - SDG
    - https://github.com/search?q=sdg&type=topics
