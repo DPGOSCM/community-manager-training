@@ -1,7 +1,7 @@
 Digital Public Goods Community Manager Training Program
 # Session - example
 **Community Manager Overview Documentation**
-<br>The notes here were gathered during a 1 hour conversation and tour of the Open Terms Archive project
+<br>The notes here were gathered during a 1 hour video tour through the Open Terms Archive project
 
 # Open Terms Archive
 
