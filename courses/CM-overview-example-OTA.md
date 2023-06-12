@@ -1,13 +1,13 @@
 Digital Public Goods Community Manager Training Program
 # Session - example
-## Community Manager Overview Documentation
-The notes here were gathered during a 1 hour conversation and tour of the Open Terms Archive project https://github.com/OpenTermsArchive.  The project has a lot of great documentation, https://docs.opentermsarchive.org driven by https://github.com/OpenTermsArchive/docs
+**Community Manager Overview Documentation**
+<br>The notes here were gathered during a 1 hour conversation and tour of the Open Terms Archive project
 
 # Open Terms Archive
 
 ## Links
 * GitHub: https://github.com/OpenTermsArchive
-* Website: https://opentermsarchive.org/
+* Website: https://opentermsarchive.org (driven by https://github.com/OpenTermsArchive/docs)
 
 ## A Day in the life of the Community Manager
 
