@@ -1,5 +1,5 @@
 Digital Public Goods Community Manager Training Program
-# Session 6 Pre-read
+# Session 6 & 7 Overview
 
 ### Topic: organizing the work
 
@@ -9,6 +9,9 @@ We will be looking at:
 - milestones
 - labels
 - project boards
+
+### GitHub helpfiles
+- [Using labels and milestones to track work](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work)
 
 
 #### Chayn
