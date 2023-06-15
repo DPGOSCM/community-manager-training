@@ -17,9 +17,9 @@ We will be looking at the following features and creating some custom pages toge
     - https://github.com/topics/sdgs 57
   - DPG
     - [https://github.com/search?q=dpg&type=topics](https://github.com/search?q=sdg&type=topics)
-    - https://github.com/topics/dpg 16
-    - https://github.com/topics/digitalpublicgoods 1
-    - https://github.com/topics/digital-public-goods 13
+    - [https://github.com/topics/dpg](https://github.com/topics/dpg) 16
+    - [https://github.com/topics/digitalpublicgoods](https://github.com/topics/digitalpublicgoods) 1
+    - [https://github.com/topics/digital-public-goods](https://github.com/topics/digital-public-goods) 13
 - GitHub Overview pages for the DPG
    - GitHub: [Adding a public organization profile README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-public-organization-profile-readme)
       - Example: https://github.com/hackforla?view_as=public ([file location](https://github.com/hackforla/.github/tree/main/profile))
