@@ -1,4 +1,3 @@
-Digital Public Goods Open Source Community Manager Program
 # Overview
 
 Both the DPGs and the Community Managers are invited to attend the training program.
