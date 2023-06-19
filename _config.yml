@@ -2,4 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: DPG Open Source Community Manager Training Program
+description: GitHub Tech for Social Good pilot program to support seven digital public goods (DPGs)
 show_downloads: false
