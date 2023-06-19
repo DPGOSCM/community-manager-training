@@ -19,8 +19,16 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
-  font-weight: 700;
+  font-weight: 600;
   color:#222222;
   font-family: Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
+}
+
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 42px;
+  font-weight: 600;
+  text-shadow: #111 0px 0px 10px;
 }
