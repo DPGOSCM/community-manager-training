@@ -1,4 +1,4 @@
-# Dashboard
+# Home (Dashboard)
 
 ## Main Program links
 
