@@ -1,4 +1,4 @@
-Digital Public Goods Community Manager Training Program
+<!--- Digital Public Goods Community Manager Training Program --->
 # Session 5 Overview
 
 ### Topic: Building a Personal Brand as a Community Manager
