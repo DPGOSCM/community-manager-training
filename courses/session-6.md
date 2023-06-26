@@ -1,7 +1,7 @@
 Digital Public Goods Community Manager Training Program
 # Session 6 & 7 Overview
 
-### Topic: organizing the work
+### Topic: Organizing the work
 
 How does your project use GitHubs tools to organize the work?
 
