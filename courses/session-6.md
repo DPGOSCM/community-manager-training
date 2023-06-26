@@ -1,4 +1,4 @@
-Digital Public Goods Community Manager Training Program
+<!--- Digital Public Goods Community Manager Training Program --->
 # Session 6 & 7 Overview
 
 ### Topic: Organizing the work
