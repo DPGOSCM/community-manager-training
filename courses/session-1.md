@@ -1,4 +1,4 @@
-Digital Public Goods Community Manager Training Program
+<!--- Digital Public Goods Community Manager Training Program --->
 # Session 1 Overview
 
 ### Topic: Program Overview
