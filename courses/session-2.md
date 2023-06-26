@@ -1,5 +1,5 @@
 Digital Public Goods Community Manager Training Program
-# Session 2 Pre-read
+# Session 2 Overview
 
 ### Topic: Contributor onboarding
 
