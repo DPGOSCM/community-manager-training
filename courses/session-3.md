@@ -1,7 +1,7 @@
 Digital Public Goods Community Manager Training Program
 # Session 3 Pre-read
 
-### Topic: Branding
+### Topic: Branding for your DPG
 
 This session will have a review of different kinds of branding and customization of the look and findability of the GitHub org and its repos
 
