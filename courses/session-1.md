@@ -1,5 +1,5 @@
 Digital Public Goods Community Manager Training Program
-# Session 2 Overview
+# Session 1 Overview
 
 ### Topic: Program Overview
 
