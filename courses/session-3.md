@@ -1,5 +1,5 @@
 Digital Public Goods Community Manager Training Program
-# Session 3 Pre-read
+# Session 3 & 4 Overview
 
 ### Topic: Branding for your DPG
 
