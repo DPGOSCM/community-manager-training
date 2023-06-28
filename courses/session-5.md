@@ -19,5 +19,5 @@ The Community Manager is responsible for making the community healthy and growin
 - What goes into a Community Manager Portfolio
 
 #### Relevant Links
-- https://papercall.io
+- [https://papercall.io](https://papercall.io)
   - example: https://papercall.io/speakers/bonniewolfe
