@@ -1,0 +1,3 @@
+All videos of the training sessions that took place in June 2023 are under the following copyright
+
+© Bonnie Wolfe 2023.  All right reserved. This video is provided to you for personal educational use only. You may watch & listen to the videos, audio files and transcripts solely for the purpose of catching up on missed lessons in the Github Social Impact, Digital Public Goods Open Source Community Manager Program.  The videos, audio files and transcripts should not be repurposed (including any derivative works), reproduced, modified, publicly displayed, sold, rented, sublicenced, or distributed without explicit permission from Bonnie Wolfe.
