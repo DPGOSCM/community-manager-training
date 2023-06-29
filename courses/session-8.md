@@ -22,7 +22,7 @@ Review a sample short “Day in the life of the community manager” document
 
 Issue template Example
 - file: https://github.com/hackforla/website/blob/gh-pages/.github/ISSUE_TEMPLATE/blank-issue-template.md
-- see it in action: [website, blank issue template](https://github.com/hackforla/website/issues/new?assignees=&labels=Complexity%3A+Missing%2C+Feature+Missing%2C+role+missing%2C+size%3A+missing&projects=&template=blank-issue-template.md&title=)
+- see it in action: [github.com/hackforla/website repo, blank issue template](https://github.com/hackforla/website/issues/new?assignees=&labels=Complexity%3A+Missing%2C+Feature+Missing%2C+role+missing%2C+size%3A+missing&projects=&template=blank-issue-template.md&title=)
 
 #### Chayn
 - [Website](https://www.chayn.co/)
