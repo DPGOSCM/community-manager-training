@@ -20,6 +20,10 @@
 Review a sample short “Day in the life of the community manager” document 
 - example: https://github.com/github/DPG-OS-Community-Manager/wiki/DPG:-OTA-(Open-Terms-Archive)
 
+Issue template Example
+- file: https://github.com/hackforla/website/blob/gh-pages/.github/ISSUE_TEMPLATE/blank-issue-template.md
+- see it in action: [website, blank issue template](https://github.com/hackforla/website/issues/new?assignees=&labels=Complexity%3A+Missing%2C+Feature+Missing%2C+role+missing%2C+size%3A+missing&projects=&template=blank-issue-template.md&title=)
+
 #### Chayn
 - [Website](https://www.chayn.co/)
 - [GitHub](https://github.com/chaynhq)
