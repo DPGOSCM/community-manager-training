@@ -18,7 +18,7 @@
 
 #### Links:
 Review a sample short “Day in the life of the community manager” document 
-- example: https://github.com/github/DPG-OS-Community-Manager/wiki/DPG:-OTA-(Open-Terms-Archive)
+- example: [Open Terms Archive Community Manager sample](CM-overview-example-OTA.md)
 
 Issue template Example
 - file: https://github.com/hackforla/website/blob/gh-pages/.github/ISSUE_TEMPLATE/blank-issue-template.md
